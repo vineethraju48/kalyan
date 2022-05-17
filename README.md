@@ -1,4 +1,34 @@
-![image](https://user-images.githubusercontent.com/101940552/168767966-53d2bfb3-b787-4fb4-9834-6a9f5842e98d.png)
+#Kubernetes Deployment using Terraform for Axivion
+
+  
+**To install plugins :** 
+```terraform plan```
+
+**To validate the code :** 
+```terraform validate```
+
+**Dry run :** 
+```terraform plan```
+
+**To deploy :**
+```terraform apply```
+
+**To update state file :** 
+```terraform refresh```
+
+**To terminate resources :** 
+```terraform destroy```
+
+**To get Cluster IP :** 
+```kubectl config view```
+
+**To get deployments :** 
+```kubectl get deployments```
+
+**To get pods :** 
+```kubectl get pods```
+
+
 ![image](https://user-images.githubusercontent.com/101940552/168766932-e3e08e90-6473-4ed3-9ff5-9e21532c83da.png)
 ![image](https://user-images.githubusercontent.com/101940552/168766980-434b42ed-7480-4c4b-9a20-12a37348d032.png)
 ![image](https://user-images.githubusercontent.com/101940552/168767017-1c87fa8d-ec53-4364-9051-2516c7ebe8cd.png)
