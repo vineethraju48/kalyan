@@ -1,5 +1,6 @@
 # Kubernetes Deployment using Terraform for Axivion
 
+**Below are the commands:**
   
 **To install plugins :** 
 ```terraform plan```
