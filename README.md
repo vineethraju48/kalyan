@@ -36,6 +36,12 @@
 # Step by step helloworld kubernetes deployment
 
 
+![image](https://user-images.githubusercontent.com/101940552/168936788-e1fd3673-0243-4631-9d3c-5dcb4d689380.png)
+
+
+
+
+
 
 
 
