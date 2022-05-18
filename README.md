@@ -40,7 +40,8 @@
 **Install Hashicorp terraform extension in VS-code**
 
 
-![Screenshot (52)](https://user-images.githubusercontent.com/101940552/168934575-26b49c13-2727-484e-b86c-a92a6b6f90bb.png)
+![image](https://user-images.githubusercontent.com/101940552/168934955-7627f289-b33f-4cd3-99ce-50f7c0ab960e.png)
+
 
 
 
